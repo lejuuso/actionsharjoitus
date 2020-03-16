@@ -1,3 +1,5 @@
+![Java CI with Maven](https://github.com/lejuuso/actionsharjoitus/workflows/Java%20CI%20with%20Maven/badge.svg)
+
 # This workflow will build a Java project with Maven
 # For more information see: https://help.github.com/actions/language-and-framework-guides/building-and-testing-java-with-maven
 
